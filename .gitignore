@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+/Fack folder/
+organize_log_*.csv
+*.log
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+Thumbs.db
+Desktop.ini
